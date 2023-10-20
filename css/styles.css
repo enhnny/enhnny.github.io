@@ -383,7 +383,7 @@ input[type='checkbox'] {
 	height: 3.125rem;
 	border: 1px solid #5f4dee;
 	border-radius: 1.5rem;
-	background-color: #5f4dee;
+	background-color: #812424;
 	color: #fff;
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
 	cursor: pointer;
@@ -1404,7 +1404,7 @@ input[type='checkbox'] {
 .footer {
 	padding-top: 3rem;
 	padding-bottom: 0.5rem;
-	background-color: #5f4dee;
+	background-color: #812424;
 }
 
 .footer .footer-col {
@@ -1453,7 +1453,7 @@ input[type='checkbox'] {
 .copyright {
 	padding-top: 1rem;
 	padding-bottom: 0.375rem;
-	background-color: #5f4dee;
+	background-color: #812424;
 	text-align: center;
 }
 
